@@ -1,0 +1,47 @@
+body {
+	background-color:#32bbf1;
+}
+
+button {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+}
+
+button:hover {
+	background-color:#5cbf2a;
+}
+
+button:active {
+	position:relative;
+	top:1px;
+}
+
+h1, h2 {
+	color:#ffffff;
+	text-align: center;
+	font-size: 3rem;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.App {
+	position: relative;
+}
+
+.buttons, .switch {
+	position: inherit;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 1rem;
+}
+
