@@ -93,7 +93,7 @@ function App2() {
   return (
     <div className="App">
       <h1>Counter</h1>
-      <h2 style={{ color }}>{count}<br>{pause}</h2>
+      <h2 style={{ color }}>{count}<br></br>{pause}</h2>
       <div className='buttons'>
         <button onClick={Plus}>Count Up</button>
         <button onClick={Minus}>Count Down</button>
