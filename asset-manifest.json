@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TimerCounter/static/js/main.a215181c.js",
+    "index.html": "/TimerCounter/index.html",
+    "main.a215181c.js.map": "/TimerCounter/static/js/main.a215181c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a215181c.js"
+  ]
+}
